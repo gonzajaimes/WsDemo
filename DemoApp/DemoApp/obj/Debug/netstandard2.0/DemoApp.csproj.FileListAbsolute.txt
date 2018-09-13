@@ -1,0 +1,12 @@
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/bin/Debug/netstandard2.0/DemoApp.deps.json
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/bin/Debug/netstandard2.0/DemoApp.dll
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/bin/Debug/netstandard2.0/DemoApp.pdb
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.csprojAssemblyReference.cache
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.csproj.CoreCompileInputs.cache
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.AssemblyInfoInputs.cache
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.AssemblyInfo.cs
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.dll
+/Users/gonzajaimes/Projects/DemoApp/DemoApp/DemoApp/obj/Debug/netstandard2.0/DemoApp.pdb
