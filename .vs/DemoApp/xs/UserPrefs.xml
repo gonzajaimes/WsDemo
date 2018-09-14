@@ -1,22 +1,22 @@
-﻿<Properties StartupConfiguration="{5781FFE9-6E29-4DC9-96D5-A442D6F3C91C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebservicesDemo/Startup.cs">
+﻿<Properties StartupConfiguration="{E5737BAD-306B-43C1-8C62-CD424BABF486}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Estado de DemoApp">
     <Files>
-      <File FileName="DemoApp/DemoApp/Views/MainPage.xaml" Line="30" Column="5" />
-      <File FileName="WebservicesDemo/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="WebservicesDemo/appsettings.json" Line="1" Column="1" />
-      <File FileName="WebservicesDemo/Controllers/ValuesController.cs" Line="26" Column="9" />
-      <File FileName="WebservicesDemo/Models/Employee.cs" Line="13" Column="2" />
-      <File FileName="WebservicesDemo/Models/EmployeesContext.cs" Line="15" Column="2" />
-      <File FileName="WebservicesDemo/Startup.cs" Line="20" Column="67" />
-      <File FileName="WebservicesDemo/Controllers/EmployeesController.cs" Line="32" Column="1" />
+      <File FileName="WServicesDemo/Models/Employee.cs" Line="9" Column="20" />
+      <File FileName="WServicesDemo/Models/EmployeesContext.cs" Line="21" Column="1" />
+      <File FileName="WServicesDemo/Controllers/EmployeesController.cs" Line="11" Column="2" />
+      <File FileName="WServicesDemo/Startup.cs" Line="36" Column="37" />
+      <File FileName="WServicesDemo/Controllers/ValuesController.cs" Line="10" Column="20" />
+      <File FileName="WServicesDemo/Controllers/EmployeesMvcController.cs" Line="17" Column="31" />
+      <File FileName="WServicesDemo/Views/EmployeesMvc/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Estado de DemoApp" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.WebservicesDemo PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WServicesDemo PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.DemoApp.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MonoDevelop.Ide.ItemProperties.DemoApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4C0C07F4-BBA5-4F2E-900C-4479213C0016" />
